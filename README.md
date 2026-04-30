@@ -1,4 +1,4 @@
-# Empirical Convergence for Hölder Regular Functions
+# Empirical Convergence across Hölder Regular Functions
 
 ---
 > PAPER STILL IN DEVELOPMENT STAGE
